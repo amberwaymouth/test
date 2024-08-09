@@ -1,0 +1,27 @@
+{
+  "version": "2.2.0",
+  "summary": {
+    "title": "Dog Registration System ",
+    "owner": "Amber Waymouth",
+    "description": "Dog registration system run by the council, allowing owners to register their dogs in order to get their identification tags as well as manage and track their dogs. Owners can receive or renew their unique tags delivered by the council. Dogs can be declared lost or found, and owners can terminate a registration before its expiration date. ",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Declare a lost dog",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.2.0",
+        "cells": [],
+        "description": "Owners can report their dog as lost, needing to encode their email address used to register the dog and the dog's name. The council system will send a confirmation email of the dog's lost status with the last known tag ID, also displayed on the confirmation webpage. "
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
